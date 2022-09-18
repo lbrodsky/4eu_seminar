@@ -26,7 +26,7 @@ install e.g. Python 3.9 application (or higher version if you like):
 set pip yes
 set add python to environment variables!!!
 
-Run 'Command line': cmd / run
+Run 'Command line': cmd in in application window 
 test pip
 ```
 > pip
@@ -54,7 +54,7 @@ Test if matplotlib is working:
 > python
 >>> import matplotlib.pyplot as plt
 >>> plt.plot([1,2,3], [3,6,9])
->>>plt.show()
+>>> plt.show()
 ```
 
 Install Jupyter notebook
@@ -80,7 +80,8 @@ Open New Python3 notebook and test it!
 - code and syntax highlighting: 
 ```
 print('hello') 
-# do more on your own
+# do more on your own, e.g. plotting
+# test packages are woring (imports) 
 ```
 
 Test Matplotlib plotting inline! 
@@ -93,7 +94,7 @@ Ok, so far :-)
 
 ----
 
-**3. Example Machine Learning pipeline:**
+**3. Example Machine Learning:**
 
 TODO! 
 
