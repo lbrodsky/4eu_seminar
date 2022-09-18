@@ -16,7 +16,6 @@ For more details see: https://github.com/lbrodsky/4eu_seminar/blob/main/requirem
 I suppose most of the users would uses Windows. There is not one universal way. I try to discribe the most straitforward one.
 
   - Python3 https://www.python.org/download/releases/3.0/
-  - Or Python from Anaconda https://www.anaconda.com
 
 install e.g. Python 3.9 application (or higher if you like): 
 ```
