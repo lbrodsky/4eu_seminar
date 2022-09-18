@@ -70,5 +70,5 @@ jupyter notebook
 
 Hope everything runs smooths and you see Jupyter environment in your web browser. 
 
-
+![Jupyter notebook](https://github.com/lbrodsky/4eu_seminar/blob/main/figs/jupyter.png?raw=true "Jupyter notebook")
 
