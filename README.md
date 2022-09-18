@@ -18,7 +18,7 @@ I suppose most of the users would uses Windows. There is not one universal way. 
   - Python3 https://www.python.org/download/releases/3.0/
   - Or Python from Anaconda https://www.anaconda.com
 
-install e.g. Python 3.9 application (or higher version if you like): 
+install e.g. Python 3.9 application (or higher if you like): 
 ```
 > python-3.9.2-amd64.exe
 ```
@@ -27,7 +27,7 @@ set pip yes
 set add python to environment variables!!!
 
 Run 'Command line': cmd in in application window 
-test pip
+
 ```
 > pip
 ```
