@@ -12,7 +12,7 @@ This is a repository of code for EU+ seminar on Machine Learning for Geoscientis
   
 For more details see: https://github.com/lbrodsky/4eu_seminar/blob/main/requirements.txt 
 
-**Installation istructions:**
+**2. Installation istructions:**
 I suppose most of the users would uses Windows. There is not one universal way. I try to discribe the most straitforward one.
 
   - Python3 https://www.python.org/download/releases/3.0/
@@ -68,6 +68,7 @@ Run jupyter notebook:
 jupyter notebook
 ```
 
-Hope everything runs smooths. 
+Hope everything runs smooths and you see Jupyter environment in your web browser. 
+
 
 
