@@ -18,7 +18,7 @@ I suppose most of the users would uses Windows. There is not one universal way. 
   - Python3 https://www.python.org/download/releases/3.0/
   - Or Python from Anaconda https://www.anaconda.com
 
-install Python 3.9 application
+install e.g. Python 3.9 application (or higher version if you like): 
 ```
 > python-3.9.2-amd64.exe
 ```
@@ -71,4 +71,25 @@ jupyter notebook
 Hope everything runs smooths and you see Jupyter environment in your web browser. 
 
 ![Jupyter notebook](https://github.com/lbrodsky/4eu_seminar/blob/main/figs/jupyter.png?raw=true "Jupyter notebook")
+
+Open New notebook and test it! 
+
+- running cells (Ctrl + Enter / Shift + Enter / menu) 
+- adding cell (+) 
+- adding rich content (Markdown) 
+- code and syntax highlighting: 
+```
+print('hello') 
+# do more on your own
+```
+
+Test Matplotlib plotting inline! 
+```
+import matplotlib.pyplot as plt
+% matplotlib inline
+```
+
+Ok, so far :-) 
+
+
 
