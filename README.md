@@ -95,5 +95,8 @@ Ok, so far :-)
 
 **3. Example Machine Learning:**
 
-TODO! 
+Classification example: https://github.com/lbrodsky/4eu_seminar/blob/main/1_classification/decision_tree_modelling_iris.ipynb
+
+Regression example: https://github.com/lbrodsky/4eu_seminar/blob/main/2_regression/machine_learning_regression.ipynb 
+
 
