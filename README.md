@@ -59,12 +59,12 @@ Test if matplotlib is working:
 Install Jupyter notebook
 
 ```
-python -m pip install jupyter
+> python -m pip install jupyter
 ```
 
 Run jupyter notebook: 
 ```
-jupyter notebook
+> jupyter notebook
 ```
 
 Hope everything runs smooths and you see Jupyter environment in your web browser. 
